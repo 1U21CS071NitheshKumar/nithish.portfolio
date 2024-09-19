@@ -108,7 +108,7 @@ const AnimationComponent = () => {
             <div className="intro-content">
               <p className='para'>Hi There,</p>
               <p className='para1'>I'm <span className='span1'>Nithish Kumar</span></p>
-              <p className='para2'>a meran stack developer</p>
+              <p className='para2'>a mern stack developer</p>
               <p className='para3'>
                 at the start of my career. I’m excited to share my projects with you, showcasing my skills in creating engaging and functional web experiences.
                 Take a look around, and feel free to get in touch if you’d like to discuss a potential collaboration or just connect.
@@ -188,6 +188,7 @@ const AnimationComponent = () => {
                 <li> Utilized React.js to create interactive UI components.</li>
                 <li> Cloned Facebook and Netflix webpages, ensuring responsiveness.</li>
                 <li> Created mini-projects: portfolio, e-commerce, calculators, to-do list.</li>
+                <li>The duration of the internship is three months, starting in June and ending in August.</li>
               </ul>
             </div>
           </Col>
